@@ -1,6 +1,6 @@
 # Mini-Artigos: Neurociência & Inteligência Artificial
 
-Esta série conecta conceitos da Neurociência com aplicações práticas em Inteligência Artificial.  
+Esta série elaborada com carinho por mim, conecta conceitos da Neurociência com aplicações práticas em Inteligência Artificial.  
 Meu objetivo é mostrar como fundamentos biológicos inspiram e fortalecem algoritmos modernos de IA.
 
 ## Índice de Artigos
