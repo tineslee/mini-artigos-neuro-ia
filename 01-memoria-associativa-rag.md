@@ -22,4 +22,4 @@ Essa abordagem torna os modelos generativos:
 
 ---
 
- *Este artigo faz parte de uma série sobre como conceitos da Neurociência inspiram e fortalecem a Inteligência Artificial.* 
+ *Escrito por Thais Ines. Este artigo faz parte de uma série sobre como conceitos da Neurociência inspiram e fortalecem a Inteligência Artificial.* 
